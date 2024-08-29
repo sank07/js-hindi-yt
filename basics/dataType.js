@@ -9,5 +9,12 @@ let isLoggedIn=false
 
 console.log(typeof isLoggedIn) ///using type of we can get data type of element
 
-console.log(typeof sanket)
-// console.log(typeof pandit)
+console.log(typeof sanket) 
+// console.log(typeof pandit)//
+//number
+//null
+//undefined
+//string
+//bigInt
+//boolean
+//and many more
