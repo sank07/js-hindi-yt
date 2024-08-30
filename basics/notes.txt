@@ -1,0 +1,22 @@
+primitive datatype{
+    string,number,boolean,null,undefined,symbolBigInt
+}
+
+reference type / nonpremitive{
+    array,Object,function
+}
+
+array declaration:
+const heros=["shaktiman","nagraj","doga"];
+
+######object creation#######
+
+let myObj={
+    name:"hitesh",
+    age:22
+}
+
+#######function######
+const myFunctio=function(){
+    console.log("hello")
+}
